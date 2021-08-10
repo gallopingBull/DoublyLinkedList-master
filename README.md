@@ -1,2 +1,2 @@
 # DoublyLinkedList-master
-template for doubly linked list
+Doubly Linked List created for CSCI 311 (Advanced Data Structures & Algorithms) project. 
